@@ -1,5 +1,5 @@
 # UPLOAD FILES TO SHAREPOINT ONLINE WITH JAVASCRIPT - USING MSAL AND MICROSOFT GRAPH 
-Example of how you can upload files to sharepoint using microsoft graph
+Example of how you can upload files to SharePoint using Microsoft Authentication Library and Microsoft Graph
 
 ## How to run the example
 
