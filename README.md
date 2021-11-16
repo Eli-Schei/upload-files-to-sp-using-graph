@@ -10,4 +10,4 @@ Example of how you can upload files to sharepoint using microsoft graph
 5. Update the graph url in the [uploadingDocWithGraph.js](https://github.com/Eli-Schei/upload-files-to-sp-using-graph/blob/main/vue-app/src/uploadingDocWithGraph.js) file.
 6. Run 'npm run dev'
 
-## Don't have the config you need? Take a look at my blogpost (coming soon)
+### [For more information about the code take a look at my blogpost](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/) 
