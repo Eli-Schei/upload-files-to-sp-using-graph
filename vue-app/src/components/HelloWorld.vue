@@ -11,7 +11,6 @@
 </template>
 
 <script>
-import { ref } from "vue";
 import { signInWithMsal } from "../authenticatingWithMsal";
 import { uploadDocument } from "../uploadingDocWithGraph";
 export default {

@@ -3,10 +3,10 @@ import * as msal from "@azure/msal-browser";
 /** Configuration. Here you need to exchange the values with your own */
 const msalConfig = {
   auth: {
-    clientId: "YOUR_APP_ID_HERE",
+    clientId: "<YOUR_APP_ID",
     // comment out if you use a multi-tenant AAD app
     authority:
-      "https://login.microsoftonline.com/YOUR_TENANT_ID_HERE",
+      "https://login.microsoftonline.com/<YOUR_TENANT_ID>",
     redirectUri: "http://localhost:3000/" //This URL must match the one set in azure app reg
   },
 };
