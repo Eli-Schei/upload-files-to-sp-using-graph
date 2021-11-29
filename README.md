@@ -10,4 +10,4 @@ Example of how you can upload files to SharePoint using Microsoft Authentication
 5. Update the graph url in the [uploadingDocWithGraph.js](https://github.com/Eli-Schei/upload-files-to-sp-using-graph/blob/main/vue-app/src/uploadingDocWithGraph.js) file.
 6. Run 'npm run dev'
 
-### <a href="https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/" target="_blank">For more information about the code take a look at my blogpost</a>
+> <a href="https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/" target="_blank">For more information about the code take a look at my blogpost</a>
