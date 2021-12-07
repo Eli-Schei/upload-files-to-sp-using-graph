@@ -16,9 +16,8 @@ export async function uploadDocument(filename, fileToUpload) {
       body: fileToUpload,
     })
     .then((response) => {
-      console.group("Response");
       console.log(response);
-      console.groupEnd();
+      //If you want to update some related fields after uploading the document take a look at my repo https://github.com/Eli-Schei/update-fields-in-sp-using-graph 
     })
     .catch((error) => {
       console.error("ERROR UPLOADING");
